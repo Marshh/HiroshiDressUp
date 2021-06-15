@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/HiroshiDressUp/static/css/main.523f09c5.chunk.css",
+    "main.js": "/HiroshiDressUp/static/js/main.a9b25a63.chunk.js",
+    "main.js.map": "/HiroshiDressUp/static/js/main.a9b25a63.chunk.js.map",
+    "runtime-main.js": "/HiroshiDressUp/static/js/runtime-main.de337c51.js",
+    "runtime-main.js.map": "/HiroshiDressUp/static/js/runtime-main.de337c51.js.map",
+    "static/js/2.7068d35b.chunk.js": "/HiroshiDressUp/static/js/2.7068d35b.chunk.js",
+    "static/js/2.7068d35b.chunk.js.map": "/HiroshiDressUp/static/js/2.7068d35b.chunk.js.map",
+    "index.html": "/HiroshiDressUp/index.html",
+    "precache-manifest.79769675651d65b5c61f4953350fb2d3.js": "/HiroshiDressUp/precache-manifest.79769675651d65b5c61f4953350fb2d3.js",
+    "service-worker.js": "/HiroshiDressUp/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/HiroshiDressUp/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.7068d35b.chunk.js.LICENSE.txt": "/HiroshiDressUp/static/js/2.7068d35b.chunk.js.LICENSE.txt",
+    "static/media/BaseHiroshiBottom1.jpg": "/HiroshiDressUp/static/media/BaseHiroshiBottom1.5eb2e9f8.jpg",
+    "static/media/BaseHiroshiTorso1.jpg": "/HiroshiDressUp/static/media/BaseHiroshiTorso1.3efeb089.jpg",
+    "static/media/CowboyHiroshiBottom1.jpg": "/HiroshiDressUp/static/media/CowboyHiroshiBottom1.ec3351e0.jpg",
+    "static/media/CowboyHiroshiTorso1.jpg": "/HiroshiDressUp/static/media/CowboyHiroshiTorso1.9899035f.jpg",
+    "static/media/FunkRollerSkaterHiroshiBottom1.jpg": "/HiroshiDressUp/static/media/FunkRollerSkaterHiroshiBottom1.d1f3d834.jpg",
+    "static/media/FunkRollerSkaterHiroshiTorso1.jpg": "/HiroshiDressUp/static/media/FunkRollerSkaterHiroshiTorso1.2e2ac6a0.jpg",
+    "static/media/KenshiHiroshiBottom1.jpg": "/HiroshiDressUp/static/media/KenshiHiroshiBottom1.3d4b7f64.jpg",
+    "static/media/KenshiHiroshiTorso1.jpg": "/HiroshiDressUp/static/media/KenshiHiroshiTorso1.bdfab978.jpg",
+    "static/media/SalarymanHiroshiBottom1.jpg": "/HiroshiDressUp/static/media/SalarymanHiroshiBottom1.87b0cc2d.jpg",
+    "static/media/SalarymanHiroshiTorso1.jpg": "/HiroshiDressUp/static/media/SalarymanHiroshiTorso1.03ec9c9e.jpg",
+    "static/media/SchoolgirlHiroshiBottom1.jpg": "/HiroshiDressUp/static/media/SchoolgirlHiroshiBottom1.2f3d888c.jpg",
+    "static/media/SchoolgirlHiroshiTorso1.jpg": "/HiroshiDressUp/static/media/SchoolgirlHiroshiTorso1.5c3bec27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de337c51.js",
+    "static/js/2.7068d35b.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.a9b25a63.chunk.js"
+  ]
+}
